@@ -1,0 +1,83 @@
+{
+  "settings": {
+    "name": "Arsalan Ali Sargana",
+    "title": "Software Engineer | Full Stack Python Developer | AI & Healthcare IT Specialist",
+    "tagline": "Building Scalable AI-Powered SaaS and Healthcare Applications",
+    "bio": "I'm a full stack software engineer specializing in Python, FastAPI, and React, with a focus on AI-powered and healthcare-adjacent products. I care about clean architecture, secure systems, and interfaces that feel effortless to use.\n\nOver the past few years I've shipped production systems ranging from AI trading signal platforms to clinic booking software, always balancing technical depth with real-world usability.\n\nI'm currently open to internships, freelance engagements, and collaborations on ambitious AI and SaaS products.",
+    "approach": "I start from the data model and the API contract, then build UI on top of a system that's already correct. Ship small, test constantly, document as I go.",
+    "email": "arsalanalisargana@gmail.com",
+    "phone": "03452915644",
+    "location": "Karachi, Pakistan",
+    "linkedin_url": "https://www.linkedin.com/in/arsalan-ali-sargana",
+    "github_url": "https://github.com/1arsalan",
+    "whatsapp_url": "https://wa.me/923452915644?text=Hi%20Arsalan,%20I%20saw%20your%20portfolio%20and%20would%20like%20to%20discuss%20a%20project.",
+    "profile_image": "/assets/arsalan-profile.jpg",
+    "cv_file": "",
+    "formspree_endpoint": ""
+  },
+  "skills": [
+    { "id": 1, "name": "Python", "category": "Backend", "proficiency": 92, "icon_name": "FaPython" },
+    { "id": 2, "name": "FastAPI", "category": "Backend", "proficiency": 90, "icon_name": "SiFastapi" },
+    { "id": 3, "name": "PostgreSQL", "category": "Backend", "proficiency": 85, "icon_name": "SiPostgresql" },
+    { "id": 4, "name": "React", "category": "Frontend", "proficiency": 88, "icon_name": "FaReact" },
+    { "id": 5, "name": "Tailwind CSS", "category": "Frontend", "proficiency": 90, "icon_name": "SiTailwindcss" },
+    { "id": 6, "name": "AI / LLM Integration", "category": "AI", "proficiency": 87, "icon_name": "SiOpenai" }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "AI Trading Signal Platform",
+      "description": "AI-powered trading signal system with crypto and forex support and auto-trading.",
+      "long_description": "## Overview\nA full trading signal platform combining a FastAPI backend, a signal-generation engine, and a React dashboard for monitoring live positions across crypto and forex markets.",
+      "tech_stack": "FastAPI,React,PostgreSQL,WebSockets",
+      "live_url": "",
+      "github_url": "",
+      "image_url": "",
+      "featured": true,
+      "created_at": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "title": "AI Medical Clinic Platform",
+      "description": "Clinic website with an integrated AI chat agent and appointment booking flow.",
+      "long_description": "## Overview\nA healthcare-facing website with an AI chat assistant that answers patient questions and routes them into a structured booking flow.",
+      "tech_stack": "Next.js,FastAPI,OpenAI API",
+      "live_url": "",
+      "github_url": "",
+      "image_url": "",
+      "featured": true,
+      "created_at": "2026-01-02T00:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "title": "JobQuestAI",
+      "description": "AI-powered career and exam preparation platform for Pakistani students.",
+      "long_description": "## Overview\nFinal year project featuring an AI-generated MCQ test system, an eligibility checker against verified government job data, and a scalable SaaS architecture.",
+      "tech_stack": "Node.js,Express,MySQL,Groq API",
+      "live_url": "",
+      "github_url": "",
+      "image_url": "",
+      "featured": false,
+      "created_at": "2026-01-03T00:00:00.000Z"
+    }
+  ],
+  "blogs": [],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Client Feedback",
+      "role": "Founder",
+      "company": "Fintech Startup",
+      "message": "Arsalan delivered a production-ready trading platform ahead of schedule, with clean code and clear communication throughout.",
+      "image_url": ""
+    },
+    {
+      "id": 2,
+      "name": "Client Feedback",
+      "role": "Product Lead",
+      "company": "Healthcare Startup",
+      "message": "The clinic platform he built handled real patient traffic from day one without issues. Solid engineering.",
+      "image_url": ""
+    }
+  ]
+}
